@@ -4,9 +4,12 @@ h1{
     font-size: 43px;
   }
   #foto{
-    width:55%;
+    width:30%;
     margin:auto; 
     display:block
+  }
+  body{
+    background-color: rgb(222, 211, 211);
   }
   h2{
     font-size: 35px;
